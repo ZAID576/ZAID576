@@ -35,7 +35,7 @@
 
 <p align="left">
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin", margin-left : 5px />
+<img src="https://skillicons.dev/icons?i=linkedin", margin-right : 5px />
 </a>
 <a href="https://github.com/ZAID576">
 <img src="https://skillicons.dev/icons?i=github" />
