@@ -146,6 +146,8 @@
   <img src="https://skillicons.dev/icons?i=canva" />
   <img src="https://skillicons.dev/icons?i=notion" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48"/>
+
 
 </p>
 
