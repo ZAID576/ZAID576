@@ -55,7 +55,8 @@
 <!-- <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react.js,tailwind,next.js,vite,git,github,vscode,mongodb,netlify,vercel,canva, notion,prettier,portfolio,tor" />
 </p> -->
-### 🌐 Frontend
+
+<!-- ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -94,7 +95,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=firefox-browser&logoColor=white)
-![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
+![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white) -->
 
 ## 💻 Tech Stack
 
