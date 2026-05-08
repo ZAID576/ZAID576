@@ -45,11 +45,10 @@
 <a href="mailto:zkonline576@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://twitter.com">
+<a href="https://x.com/zaidkhan_0123">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
-
 
 <br>
 <br>
