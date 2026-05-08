@@ -96,6 +96,58 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
+## 💻 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+</p>
+
+---
+
+### 🔧 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+---
+
+### 🛢 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🚀 Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=notion" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
 # 🔥 GitHub Streak
 
 <div align="center">
