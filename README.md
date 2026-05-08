@@ -158,23 +158,10 @@
 
 ---
 
-## 📊 GitHub Stats & Achievements  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raziquehasan&theme=radical" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raziquehasan&theme=radical" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raziquehasan&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raziquehasan&theme=radical" height="160" />
-</p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ZAID576&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ZAID576&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZAID576&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 ---
 
