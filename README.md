@@ -12,10 +12,10 @@
 
 # 🚀 About Me
 
-- 🔭 Currently building responsive and scalable web applications
-- 🌱 Learning React.js, advanced JavaScript and system design
-- 🏆 Hackathon participant with internship experience
-- 🎯 Passionate about frontend architecture and UI/UX
+- 🔭 Frontend Developer at Google Developers Group Patna
+- 🌱 Focusing on React.js modern frontend architecture & performance optimization
+- 🏆 Smart India Hackathon (SIH) Participant #2nd position
+- 🤖 Exploring AI + SaaS Products with context engineering 
 - 🤝 Open to collaboration and innovative projects
 
 ---
