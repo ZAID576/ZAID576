@@ -117,15 +117,6 @@ Reusable JavaScript UI components and animations.
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/ZAID576/ZAID576/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # ☕ Profile Views
 
