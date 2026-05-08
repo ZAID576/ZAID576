@@ -29,7 +29,8 @@
 
 
 
-
+<br>
+<br>
 # 🌐 Connect With Me
 
 <p align="left">
@@ -48,7 +49,8 @@
 </p>
 
 
-
+<br>
+<br>
 
 # 💻 Tech Stack
 
@@ -144,6 +146,9 @@
 
 
 
+<br>
+<br>
+
 
 # 🔥 GitHub Streak
 
@@ -153,6 +158,9 @@
 
 </div>
 
+
+<br>
+<br>
 
 
 # 📊 GitHub Stats:
