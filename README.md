@@ -4,7 +4,7 @@
 
 ### Frontend Developer & Networking Lead @GDG Patna
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+JavaScript+Developer;Building+Responsive+Web+Applications;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+JavaScript+Developer;Building+Responsive+Web+Applications;Open+Source+Contributer" />
 
 </div>
 
