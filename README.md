@@ -29,6 +29,7 @@
 
 
 
+
 # 🌐 Connect With Me
 
 <p align="left">
@@ -45,6 +46,8 @@
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
+
+
 
 
 # 💻 Tech Stack
@@ -138,6 +141,7 @@
   <!-- <img src="https://skillicons.dev/icons?i=canva" /> -->
   <img src="https://skillicons.dev/icons?i=notion" />
 </p>
+
 
 
 
