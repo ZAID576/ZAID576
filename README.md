@@ -1,4 +1,7 @@
-                                                      Hi Im Mohammad Zaid Khan
+💫 Hi 👋, I'm Mohammad Zaid Khan
+A Frontend Engineer at Google Developers Group Patna || Campus Ambassador at Physics Wallah
+
+Email Me 👉 ✉️ zkonline576@gmail.com For Collaboration/Project or Anything Else. 😊😊
 👤 About Me<br><br>🚀 Passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.<br><br>🌱 Currently exploring React.js, modern frontend architecture, and performance optimization.<br><br>🏆 Hackathon participant, internship experience, and community leader with strong problem-solving and team collaboration skills.<br><br>🤝 Networking Lead @ Google Developers Group Patna, connecting developers and creating impact through events and collaboration.<br><br><br><br>
 
 
