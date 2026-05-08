@@ -107,7 +107,6 @@
   <img src="https://skillicons.dev/icons?i=vite" />
 </p>
 
----
 
 ### 🔧 Backend
 <p>
@@ -118,7 +117,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
----
 
 ### 🛢 Database
 <p>
@@ -127,7 +125,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
 
 ### 🚀 Deployment
 <p>
@@ -135,7 +132,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
----
 
 ### 🛠 Tools & Platforms
 <p>
@@ -144,9 +140,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
   <!-- <img src="https://skillicons.dev/icons?i=canva" /> -->
   <img src="https://skillicons.dev/icons?i=notion" />
-
-
 </p>
+
+
 
 # 🔥 GitHub Streak
 
