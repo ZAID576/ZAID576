@@ -142,10 +142,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=canva" />
   <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 # 🔥 GitHub Streak
