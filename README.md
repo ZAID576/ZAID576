@@ -1,19 +1,207 @@
-💫 Hi 👋, I'm Mohammad Zaid Khan
+<div align="center">
 
-A Frontend Engineer at Google Developers Group Patna || Campus Ambassador at Physics Wallah
+# Hi 👋, I'm Mohammad Zaid Khan
 
-Email Me 👉 ✉️ zkonline576@gmail.com For Collaboration/Project or Anything Else. 😊😊
-👤 About Me<br><br>🚀 Passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.<br><br>🌱 Currently exploring React.js, modern frontend architecture, and performance optimization.<br><br>🏆 Hackathon participant, internship experience, and community leader with strong problem-solving and team collaboration skills.<br><br>🤝 Networking Lead @ Google Developers Group Patna, connecting developers and creating impact through events and collaboration.<br><br><br><br>
+### Frontend Developer | Networking Lead @ GDG Patna
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Building+Responsive+Web+Applications;Open+Source+Learner" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-zaid-khan-547534230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/zaidkhan_0123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zkonline576@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ZAID576&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ZAID576&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZAID576&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 🔭 Currently building responsive and scalable web applications
+- 🌱 Learning React.js, advanced JavaScript and system design
+- 🏆 Hackathon participant with internship experience
+- 🎯 Passionate about frontend architecture and UI/UX
+- 🤝 Open to collaboration and innovative projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/ZAID576">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="mailto:zkonline576@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://twitter.com">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZAID576&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAID576&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZAID576&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Zaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZAID576&bg_color=0d1117&color=8a2be2&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/ZAID576)
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Secured 2nd Place in Smart India Hackathon Internal Round
+- 🏅 Secured 4th Position in Hack It Hackathon at Amity Patna
+- 🚀 Networking Lead at Google Developers Group Patna
+- 🎯 Campus Ambassador at Physics Wallah
+- 💼 Frontend Developer Intern at Alfido Tech
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 Personal Portfolio Website
+Responsive portfolio website with dark mode and interactive UI.
+
+## 🎬 Netflix Clone
+Pixel-perfect Netflix UI clone using HTML, CSS and SCSS.
+
+## 📊 Responsive Dashboard UI
+Modern dashboard interface with charts and widgets.
+
+## ⚡ Interactive UI Components
+Reusable JavaScript UI components and animations.
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/ZAID576/ZAID576/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# ☕ Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ZAID576&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### "Consistency beats talent when talent doesn't work consistently."
+
+</div>
+```
+
+---
+
+# 🎨 BEST SETTINGS FOR YOUR PROFILE
+
+## Recommended Theme
+
+```text
+Tokyonight
+```
+
+## Best Accent Colors
+
+```text
+Purple + Neon Green + Cyan
+```
+
+## Profile Personality
+
+```text
+Modern + Professional + Active Developer
+```
+
+---
+
+# 🚀 EXTRA IMPROVEMENTS
+
+## 1️⃣ Add Professional Banner
+
+Create a banner with:
+
+* Your name
+* Frontend Developer title
+* GDG Patna role
+* Dark neon background
+* Coding setup illustration
+
+---
+
+## 2️⃣ Improve Repository Names
+
+Rename:
+
+| Current        | Better                    |
+| -------------- | ------------------------- |
+| To-Do-List     | TaskFlow-App              |
+| Webpage        | Portfolio-Website         |
+| Event-Handling | Interactive-UI-Components |
+| Navigation-Bar | Responsive-Dashboard-UI   |
+
+---
+
+## 3️⃣ Pin Best Repositories
+
+Pin only:
+
+* Portfolio Website
+* Netflix Clone
+* Dashboard UI
+* React Project
+* Hackathon Project
+* Major Frontend Project
+
+---
+
+# 💎 Final Recruiter Impression
+
+This profile design will subconsciously communicate:
+
+✅ Professional Developer
+✅ Active Learner
+✅ Team Player
+✅ Community Leader
+✅ Frontend Specialist
+✅ High Growth Potential
+
