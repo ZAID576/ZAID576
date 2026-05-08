@@ -97,8 +97,6 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-FF7F50?style=for-the-badge&logo=firefox-browser&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white) -->
 
-## 💻 Tech Stack
-
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
