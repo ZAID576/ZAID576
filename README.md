@@ -80,6 +80,20 @@
 
 ---
 
+## 📊 GitHub Stats & Achievements  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raziquehasan&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raziquehasan&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raziquehasan&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raziquehasan&theme=radical" height="160" />
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 [![Zaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZAID576&bg_color=0d1117&color=8a2be2&line=00ff99&point=ffffff&area=true&hide_border=true)](https://github.com/ZAID576)
