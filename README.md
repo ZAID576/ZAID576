@@ -18,7 +18,6 @@
 - 🤖 Exploring AI + SaaS Products with context engineering 
 - 🤝 Open to collaboration and innovative projects
 
----
 
 # 🏆 Achievements
 
@@ -28,7 +27,6 @@
 - 🎯 Campus Ambassador at Physics Wallah
 - 💼 Frontend Developer Intern at Alfido Tech
 
----
 
 
 # 🌐 Connect With Me
@@ -48,7 +46,6 @@
 </a>
 </p>
 
----
 
 # 💻 Tech Stack
 
