@@ -53,7 +53,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react.js,tailwind,next.js,vite,git,github,vscode,mongodb,netlify,vercel,canva, notion,prettier,portfolio,tor" />
 </p>
 
 ---
