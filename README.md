@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                      Hi Im Mohammad Zaid Khan
 👤 About Me<br><br>🚀 Passionate Frontend Developer focused on building clean, responsive, and user-friendly web applications.<br><br>🌱 Currently exploring React.js, modern frontend architecture, and performance optimization.<br><br>🏆 Hackathon participant, internship experience, and community leader with strong problem-solving and team collaboration skills.<br><br>🤝 Networking Lead @ Google Developers Group Patna, connecting developers and creating impact through events and collaboration.<br><br><br><br>
 
 
