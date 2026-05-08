@@ -36,7 +36,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/mohammad-zaid-khan-547534230/">
 <img src="https://skillicons.dev/icons?i=linkedin", margin-right : 5px />
 </a>
 <a href="https://github.com/ZAID576">
