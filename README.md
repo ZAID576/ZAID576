@@ -86,15 +86,6 @@
 
 ---
 
-# 🏆 Achievements
-
-- 🥈 Secured 2nd Place in Smart India Hackathon Internal Round
-- 🏅 Secured 4th Position in Hack It Hackathon at Amity Patna
-- 🚀 Networking Lead at Google Developers Group Patna
-- 🎯 Campus Ambassador at Physics Wallah
-- 💼 Frontend Developer Intern at Alfido Tech
-
----
 
 # 📌 Featured Projects
 
