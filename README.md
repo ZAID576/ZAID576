@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mohammad Zaid Khan
+# Hi 👋, I'm Md Zaid Khan
 
 ### MERN Dev & Networking Lead @GDG Patna
 
